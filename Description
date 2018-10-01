@@ -1,0 +1,22 @@
+Hello guys.!
+Today I will will set up a COPYBOT!.
+The COPYBOT is a slave of the master bot. It will follow its master around and copy everything it does.
+This can also be called a “Master- Slave Robot” project.
+
+I’ve used here one master robot and one slave robot. However after completion of this project, you can attach as many slave robots with the master robot.
+
+COMPONENTS REQUIRED ->
+
+1x Arduino uno
+1x Bluetooth Module (I used HC-05)
+2x Chassis
+2x Breadboard
+1x RF transmitter Module
+1x RF receiver module
+4x Wheels
+4x Motors – (100 rpm DC motor)
+2x 9v batteries
+2x L293D (Motor driver IC)
+   A lot of connecting wires
+For controlling your master robot wirelessly, you need a remote. You can turn your phone into an IR remote by building a simple app in MIT app inventor. For novice’s, here is the link where you can learn how to build the app.
+https://www.youtube.com/watch?v=li9YaUactCw
